@@ -1,0 +1,6 @@
+Some high-quility CVEs I got.
+
+CVE-2020-14756
+CVE-2021-2135
+CVE-2021-2136
+CVE-2022-21420
