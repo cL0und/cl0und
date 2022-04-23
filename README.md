@@ -1,4 +1,4 @@
-Some high-quility CVEs I got.
+Some high-quality CVEs I got.
 
 CVE-2020-14756
 CVE-2021-2135
